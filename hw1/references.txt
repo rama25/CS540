@@ -1,0 +1,10 @@
+[1]Afchar, Darius, Nozick, Vincent, Yamagishi, Junichi, Echizen, Isao, 2018. MesoNet:A compact facial video forgery detection network. In: 2018 IEEE International
+Workshop on Information Forensics and Security, WIFS. IEEE, pp. 1–7.
+[2]Agarwal, Shruti, Farid, Hany, El-Gaaly, Tarek, Lim, Ser-Nam, 2020a. Detecting deepfake videos from appearance and behavior. In: IEEE International Workshop on
+Information Forensics and Security, WIFS. IEEE, pp. 1–6
+[3]Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,Sherjil Ozair, Aaron Courville,
+Yoshua Bengio. Generative Adversarial Nets. Advances in Neural Information Processing Systems 27 (NIPS 2014)
+[4]Amerini, Irene, Galteri, Leonardo, Caldelli, Roberto, Del Bimbo, Alberto, 2019. Deepfake video detection through optical flow based CNN. In: Proceedings of the
+IEEE/CVF International Conference on Computer Vision Workshops. pp. 1205–1207
+[5]Cho, Wonwoong, Choi, Sungha, Park, David Keetae, Shin, Inkyu, Choo, Jaegul, 2019.Image-to-image translation via group-wise deep whitening-and-coloring transforma-
+tion. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. pp. 10639–10647.
