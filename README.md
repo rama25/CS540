@@ -4,7 +4,7 @@
 
 Understand and be able to apply the foundational tools in Machine Learning and Artificial Intelligence: Linear algebra, Probability, Logic, and elements of Statistics.
 
-Understand core techniques in Natural Language Processing (NLP), including bag-of-words, tf-idf, n-Gram Models, and Smoothing.
+Understand core techniques in Natural Language Processing, including bag-of-words, tf-idf, n-Gram Models, and Smoothing.
 
 Understand the basics of Machine Learning. Identify and summarize important features in supervised learning and unsupervised learning.
 
