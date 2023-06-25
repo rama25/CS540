@@ -1,6 +1,6 @@
 # CS540 AI UW Madison
  
- Students learn fundamental principles of different areas of artificial intelligence, including knowledge-based search techniques; automatic deduction, knowledge representation using predicate logic, machine learning, probabilistic reasoning. Students develop applications in tasks such as problem solving, data mining, game playing, natural language understanding, and robotics.
+Learn fundamental principles of different areas of artificial intelligence, including knowledge-based search techniques; automatic deduction, knowledge representation using predicate logic, machine learning, probabilistic reasoning. Develop applications in tasks such as problem solving, data mining, game playing, natural language understanding, and robotics.
 
 Understand and be able to apply the foundational tools in Machine Learning and Artificial Intelligence: Linear algebra, Probability, Logic, and elements of Statistics.
 
